@@ -44,6 +44,11 @@ title: Books to Read for Programmers
 - [Amazon Smile](https://smile.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628/)
 - ISBN-13: 978-0131103628
 
+*Let Us C*
+-[Amazon](https://www.amazon.in/Let-Us-C-Yashavant-Kanetkar/dp/8183331637/ref=as_li_ss_tl?s=books&ie=UTF8&qid=1482474153&sr=1-1&keywords=let+us+c&linkCode=sl1&tag=thecrazprog-21&linkId=0eee92bcac00b24033e591f1ba74faaf)
+- ISBN-13: 978-8183331630
+
+
 ## Coding Interview
 
 *Cracking the Coding Interview: 150 Programming Questions and Solutions*
